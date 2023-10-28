@@ -15,6 +15,7 @@ Cubase Pro (12)
 
 ## 使ってるIDE
 メイン：Visual Studio Code
+<br>
 ターミナルとかだとnanoを使ってます。(vimわからん)
 
 ## 使用可能言語:
